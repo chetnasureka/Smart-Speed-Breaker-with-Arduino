@@ -1,5 +1,5 @@
 # SmartSpeedBreaker
-Smart Speed Breaking System is designed for highways where in a speed breaker is initiated to come up only if the speed of the car is larger than a prescribed limit. Ideal for highways and modelled around an Arduino. For this you will need:<br />
+Smart Speed Breaking System is designed for highways where in a speed breaker is initiated to come up only if the speed of the car exceeds the prescribed limit. Ideal for highways and modelled using an Arduino. For this you will need:<br />
 1)2 Ultrasonic Distance Sensors<br />
 2)2 Micro Servos<br />
 3)An Arduino with connecting cable<br />
